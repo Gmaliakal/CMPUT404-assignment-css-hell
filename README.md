@@ -12,14 +12,14 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
-# html modifications 
+# html modifications (gutenberg)
 
 * included a reference to the css file before the closing head tag on all html files
 
 * changed cover.jpg to cover2.jpg in 3.html as cover.jpg was used in 2.html
 
 
-# CSS changes
+# CSS changes (gutenberg)
 
 * I changed the background color of the entire body to a yellowish colour resembling a old sheet of paper, with a Georgia serif font.
 
