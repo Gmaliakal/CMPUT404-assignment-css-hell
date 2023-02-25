@@ -1,0 +1,95 @@
+
+  body {
+    background-color: rgb(192, 183, 134);
+    font-family: Georgia, serif;
+    padding: 20pt;
+
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    border: dotted olive;
+    border-radius: 10pt;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 1000%;
+  }
+
+  h2 {
+    color: rgb(0, 0, 0);
+    border: solid black;
+    border-radius: 50pt;
+    font-size: 300%;
+    background-color: #f5f2d0;
+    
+  }
+
+  h3{
+    color: #C086AC;
+    font-weight: 800;
+  }
+
+  h4{
+    color:rgb(192, 183, 134)
+  }
+
+  h5{
+    color: lavender;
+  }
+
+  div{
+    color: rgb(68, 66, 68);
+  }
+  
+  p {
+    color: rgb(0, 0, 0);
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 5em;
+    padding-right: 5em;
+    border-left: solid black;
+    border-right: solid black;
+    line-height: 2em;
+    font-size: 20pt;
+    word-spacing: 0.1em;
+  }
+
+  .toc {
+    border-left: none;
+    border-right: none;
+  }
+
+  .scenedesc{
+    border-left: none;
+    border-right: none;
+  }
+
+  .letter{
+    border-left: none;
+    border-right: none;
+  }
+
+  .right{
+    border-left: none;
+    border-right: none;
+  }
+
+  .mynote {
+    background-color: rgb(151, 137, 137);
+    border: 20pt solid black;
+    padding: 20pt;
+  }
+
+  
+  img{
+    border-radius: 20%;
+    border: double black 10pt;
+  
+  }
+
+  
+  a:hover{
+    color: #f5f2d0;
+    
+  }
