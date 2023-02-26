@@ -1,0 +1,116 @@
+.clr{ 
+    clear:both;
+}
+/* above tag taken from this video to clear formatting-> author: traversymedia source:https://www.youtube.com/watch?v=yfoY53QXEnI */
+
+.topnav{
+    background-color: #d80000;
+    text-align: center; 
+    display: inline-block;
+    width:100%;
+    
+}
+
+body{
+    background-image: url("../images/mybackground.png");
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: #1100ff;
+    
+}
+
+.topnav a{
+    color: rgb(218, 7, 200);
+    background-color: #19b420;
+    border: solid rgb(245, 139, 0);
+    text-decoration: none;
+    width: 50%;
+    float:left;
+    box-sizing: border-box;
+    font-size: 20pt;
+}
+
+.topnav a:hover{
+    background-color: rgb(218, 7, 200);
+    color: #19b420;
+    
+}
+
+
+h1{
+    text-align: center;
+    font-size: 40pt;
+    background-color: rgb(68, 32, 21);
+    margin:50pt;
+    border: dotted rgb(223, 76, 19) 20pt;
+    
+}
+
+h2{
+    font-size: 30pt;
+    
+}
+
+.block{
+    margin:50pt;
+    padding:50pt;
+    background-color: rgb(191, 209, 28);
+    border: dotted rgb(223, 76, 19) 20pt;
+    
+    
+}
+
+.image img{
+    
+    width: 30%;
+    float:left;
+    padding: 5pt;
+    box-sizing: border-box;
+}
+
+.image p{
+    width: 70%;
+    height: 100%;
+    float: right;
+    padding: 5pt;
+    box-sizing: border-box;
+    font-size: 20pt;
+    
+}
+
+p{
+    font-size: 20pt; 
+}
+
+.sidebar{
+
+
+    margin-top:50pt;
+    margin-left:50pt;
+    padding:20pt;
+    background-color: rgb(191, 209, 28);
+    border: dotted rgb(223, 76, 19) 20pt;
+    width: 25%; 
+    float:left;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+
+.smallerbdy{
+    display:flex;
+}
+    
+    
+
+.main{
+    width: 70%;
+    float:right;
+    box-sizing: border-box;
+    bottom:0;
+    
+    
+}
+
+.info{
+    font-size:15pt
+}
